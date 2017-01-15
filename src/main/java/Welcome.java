@@ -1,8 +1,6 @@
 import java.io.PrintStream;
 
-/**
- * Created by sspecht on 1/12/17.
- */
+
 public class Welcome {
     private PrintStream printStream;
     

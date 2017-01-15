@@ -1,6 +1,4 @@
-/**
- * Created by sspecht on 1/12/17.
- */
+
 public class Application {
     private Welcome welcome;
     private Library library;
